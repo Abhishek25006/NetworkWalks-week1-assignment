@@ -83,6 +83,7 @@ It can be used for activities such as:
 ## Step 2. Install VirtualBox
 
 VirtualBox was installed as the hypervisor.
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/19b802b2-b352-4f00-b7e9-24dfbc77f360" />
 
 ---
 ## Step 3. Create the NAT Network
@@ -94,8 +95,8 @@ Network Name: NatNetwork
 IPv4 Prefix:  10.0.0.0/24
 DHCP:         Enabled
 IPv6:         Disabled
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/dbff1956-8ac0-42cf-a243-3ff053629961" />
 
-![](2-screenshot-network-settings-1.png)
 
 A **NAT Network** was selected because multiple virtual machines connected to the same NAT Network can communicate with one another while also having outbound network connectivity.
 
