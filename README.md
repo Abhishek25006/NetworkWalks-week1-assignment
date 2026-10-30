@@ -210,10 +210,11 @@ nmap --version
 
 *The IP addresses above are examples. Replace them with the addresses configured in your own lab.*
 
-## 📸 Screenshots
+## KALI LINUX CONFIGURE
 
 
-<img width="1359" height="722" alt="image" src="https://github.com/user-attachments/assets/4e83aad3-d381-4a5b-87a9-60a36e809398" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/dba036bb-bb6b-4e7c-8c00-e287ecf1d7e0" />
+
 
 
 ```
