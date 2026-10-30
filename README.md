@@ -213,7 +213,8 @@ nmap --version
 ## KALI LINUX CONFIGURE
 
 
-<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/dba036bb-bb6b-4e7c-8c00-e287ecf1d7e0" />
+<img width="1347" height="604" alt="image" src="https://github.com/user-attachments/assets/bca4b326-d8b6-4d74-a6c2-1b67afb33d1f" />
+
 
 
 
